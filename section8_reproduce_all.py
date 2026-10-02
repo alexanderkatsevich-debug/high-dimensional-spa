@@ -6,9 +6,8 @@ Complete reproducibility code for Section 8 of
     "SADDLEPOINT APPROXIMATION AND CENTRAL LIMIT THEOREM
      FOR DENSITIES IN HIGH DIMENSIONS"
 
-paper version used for the cross-references:
-
-    High-d CLT - v3 (20260930-215525)
+See arXiv:2510.21545.
+  
 
 PURPOSE
 -------
