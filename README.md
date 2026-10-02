@@ -6,7 +6,7 @@ This repository contains the Python code used to reproduce the numerical experim
 
 The equation and figure cross-references below correspond to the manuscript version
 
-`High-d CLT - v3 (20260930-215525)`.
+[arXiv:2510.21545](https://arxiv.org/abs/2510.21545).
 
 ## Requirements
 
